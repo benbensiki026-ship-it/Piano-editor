@@ -223,4 +223,4 @@
 **Compilation Time**: <5 seconds
 **Runtime Requirements**: C++ compiler, terminal
 
-Made with ❤️ for music and coding enthusiasts!
+Made with ❤️ for music and coding enthusiasts and I'll make a mobile version
